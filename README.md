@@ -5,7 +5,7 @@
 
 # 📞 Contact
 <a href="mailto:ahshss903@gmail.com"><img src="https://img.shields.io/badge/-ahshss903@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a> <br>
-<a href="https://instagram.com/07.0331.a"><img src="https://img.shields.io/badge/-@j07.0331.a-263235?style=flat&logo=Instagram&logoColor=color"/></a> <br>
+<a href="https://instagram.com/07.0331.a"><img src="https://img.shields.io/badge/-@07.0331.a-263235?style=flat&logo=Instagram&logoColor=color"/></a> <br>
 <a href="https://github.com/ansunghae"><img src="https://img.shields.io/badge/-ansunghae-263235?style=flat&logo=Github&logoColor=color"/></a>
 
 
