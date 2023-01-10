@@ -39,11 +39,11 @@
 > **FrontEnd** : HTML / CSS / JavaScript  
 > **BackEnd** : Node.js / Python / MySQL
 # 💻 GitHub Analytics
-![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae&show_icons=true&theme=onedark)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansunghae&layout=compact&theme=onedark)
+[![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae)](https://github.com/ansunghae/github-readme-stats)
 
 # ⚙ Servers
 <div>
 	<img src="https://img.shields.io/badge/Raspberry Pi 4B 4GB-263235?style=flat&logo=Raspberrypi&logoColor=color" />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
