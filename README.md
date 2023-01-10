@@ -6,4 +6,4 @@
 
 > E-Mail : ahshss903@naver.com
 
-[![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae)]
+![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae)
