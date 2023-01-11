@@ -39,7 +39,7 @@
 > **FrontEnd** : HTML / CSS / JavaScript  
 > **BackEnd** : Node.js / Python / MySQL
 # 💻 GitHub Analytics
-[![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae)](https://github.com/ansunghae/github-readme-stats)
+[![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae&show_icons=true&theme=onedark)](https://github.com/ansunghae/github-readme-stats)
 
 # ⚙ Servers
 <div>
