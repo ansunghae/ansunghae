@@ -46,4 +46,4 @@
 	<img src="https://img.shields.io/badge/Raspberry Pi 4B 4GB-263235?style=flat&logo=Raspberrypi&logoColor=color" />
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
