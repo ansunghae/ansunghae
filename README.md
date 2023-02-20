@@ -25,7 +25,7 @@
 </div>
 
 
-# 🎈 Prejects
+# 🎈 Projects
 ## 1. [GitCat](https://github.com/ansunghae/gitcat)
 ``깃허브 정보를, 디스코드에서``  
 > 개발기간 : 2022.07 ~  
