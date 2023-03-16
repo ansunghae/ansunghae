@@ -23,6 +23,8 @@ BSSM 3th
 	<img src="https://img.shields.io/badge/GitHub-263235?style=flat&logo=GitHub&logoColor=color" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-263235?style=flat&logo=visual-studio-code&logoColor=color" />
 	<img src="https://img.shields.io/badge/Figma-263235?style=flat&logo=Figma&logoColor=color" />
+	<img src="https://img.shields.io/badge/php-263235?style=flat&logo=php&logoColor=color" />
+	<img src="https://img.shields.io/badge/Csharp-263235?style=flat&logo=Csharp&logoColor=color" />
 </div>
 
 
