@@ -43,13 +43,13 @@ BSSM 3th
 > **FrontEnd** : HTML / CSS / JavaScript  
 > **BackEnd** : Node.js / Python / MySQL
 ---
-## 3. [BS_BAMBOO](https://github.com/ansunghae/bs_bamboo)
-``BSSM IRC커뮤니티``
-> 개발기간 : 2023.03 ~  
+## 3. [MyMailBox](https://github.com/GCBGG/MymailBox-v1-Frontend)
+``내 마음을 상대방에게``
+> 개발기간 : 2023.06 ~  
 > 기술스택 :  
-> **FrontEnd** : HTML / CSS / JavaScript  
-> **BackEnd** : Node.js / MySQL  
-> 
+> **FrontEnd** : Flutter
+> **BackEnd** : Node.js / MySQL
+---
 # 💻 GitHub Analytics
 [![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae&show_icons=true&theme=onedark)](https://github.com/ansunghae/github-readme-stats)
 
