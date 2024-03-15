@@ -32,23 +32,17 @@
 # 🎈 Projects
 ## 1. [GitCat](https://github.com/ansunghae/gitcat)
 ``깃허브 정보를, 디스코드에서``  
-> 개발기간 : 2022.07 ~  
+> 개발기간 : 2022.07 ~  2022.12
 > 기술스택 :   
 > Node.js
 ---
-## 2. [ordercall](https://github.com/TeamLunarKr/ordercall)
-``전문가와 사용자간의 매칭 서비스``
-> 개발기간 : 2023.01 ~  
-> 기술스택 :   
-> **FrontEnd** : HTML / CSS / JavaScript  
-> **BackEnd** : Node.js / Python / MySQL
----
-## 3. [MyMailBox](https://github.com/GCBGG/MymailBox-v1-Frontend)
+## 2. [MyMailBox](https://github.com/GCBGG/MymailBox-v1-Frontend)
 ``내 마음을 상대방에게``
-> 개발기간 : 2023.06 ~  
+> 개발기간 : 2023.06 ~ 2023.07
 > 기술스택 :  
 > **FrontEnd** : Flutter
 > **BackEnd** : Node.js / MySQL
+> PM자퇴로 인한 개발중단
 ---
 # 💻 GitHub Analytics
 [![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae&show_icons=true&theme=onedark)](https://github.com/ansunghae/github-readme-stats)
