@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Intro
 다양한것을 시도하는 ~~자칭~~ 풀스택개발자, **안성해** 입니다.  
-*2024년 기준으로 학교에 재학중이지 않습니다.*  
+*2025년 기준으로 동의과학대학교 컴퓨터소프트웨어과에 재학중입니다.*  
 
 # 📞 Contact
 <a href="mailto:ahshss903@gmail.com"><img src="https://img.shields.io/badge/-ahshss903@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a> <br>
