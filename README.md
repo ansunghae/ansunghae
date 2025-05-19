@@ -6,7 +6,7 @@
 
 # 📞 Contact
 <a href="mailto:ahshss903@gmail.com"><img src="https://img.shields.io/badge/-ahshss903@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a> <br>
-<a href="https://instagram.com/07.0331.a"><img src="https://img.shields.io/badge/-@07.0331.a-263235?style=flat&logo=Instagram&logoColor=color"/></a> <br>
+<a href="https://instagram.com/x.0331.a"><img src="https://img.shields.io/badge/-@x.0331.a-263235?style=flat&logo=Instagram&logoColor=color"/></a> <br>
 <a href="https://github.com/ansunghae"><img src="https://img.shields.io/badge/-ansunghae-263235?style=flat&logo=Github&logoColor=color"/></a>
 
 
@@ -18,6 +18,7 @@
 	<img src="https://img.shields.io/badge/CSS3-263235?style=flat&logo=CSS3&" />
 	<img src="https://img.shields.io/badge/HTML5-263235?style=flat&logo=HTML5&logoColor=color" /> <br>
 	<img src="https://img.shields.io/badge/Python-263235?style=flat&logo=python&logoColor=color" />
+	<img src="https://img.shields.io/badge/fastapi-263235?style=flat&logo=fastapi&logoColor=color"/>
 	<img src="https://img.shields.io/badge/Lua-263235?style=flat&logo=lua&logoColor=color" /> <br>
 	<img src="https://img.shields.io/badge/Git-263235?style=flat&logo=Git&logoColor=color" />
 	<img src="https://img.shields.io/badge/GitHub-263235?style=flat&logo=GitHub&logoColor=color" />
