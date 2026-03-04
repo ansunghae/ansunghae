@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunghae%20An&fontSize=75)
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Intro
-다양한것을 시도하는 ~~자칭~~ 풀스택개발자, **안성해** 입니다.  
+다양한것을 시도하는 백엔드개발자, **안성해** 입니다.  
 *2025년 기준으로 동의과학대학교 컴퓨터소프트웨어과에 재학중입니다.*  
 
 # 📞 Contact
