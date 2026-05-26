@@ -2,10 +2,10 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Intro
 다양한것을 시도하는 백엔드개발자, **안성해** 입니다.  
-*2025년 기준으로 동의과학대학교 컴퓨터소프트웨어과에 재학중입니다.*  
+*2026년 기준으로 동의과학대학교 컴퓨터소프트웨어과에 재학중입니다.*  
 
 # 📞 Contact
-<a href="mailto:ahshss903@gmail.com"><img src="https://img.shields.io/badge/-ahshss903@gmail.com-263235?style=flat&logo=Gmail&logoColor=color"/></a> <br>
+<a href="mailto:me@sunghae.xyz"><img src="https://img.shields.io/badge/-me@sunghae.xyz-263235?style=flat&logo=Gmail&logoColor=color"/></a> <br>
 <a href="https://instagram.com/x.0331.a"><img src="https://img.shields.io/badge/-@x.0331.a-263235?style=flat&logo=Instagram&logoColor=color"/></a> <br>
 <a href="https://github.com/ansunghae"><img src="https://img.shields.io/badge/-ansunghae-263235?style=flat&logo=Github&logoColor=color"/></a>
 
