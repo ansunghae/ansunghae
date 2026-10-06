@@ -1,54 +1,125 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunghae%20An&fontSize=75)
+# 안성해 · Ansunghae
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Intro
-다양한것을 시도하는 백엔드개발자, **안성해** 입니다.  
-*2026년 기준으로 동의과학대학교 컴퓨터소프트웨어과에 재학중입니다.*  
+### 일단 먼저 시도하는 개발자
 
-# 📞 Contact
-<a href="mailto:me@sunghae.xyz"><img src="https://img.shields.io/badge/-me@sunghae.xyz-263235?style=flat&logo=Gmail&logoColor=color"/></a> <br>
-<a href="https://instagram.com/x.0331.a"><img src="https://img.shields.io/badge/-@x.0331.a-263235?style=flat&logo=Instagram&logoColor=color"/></a> <br>
-<a href="https://github.com/ansunghae"><img src="https://img.shields.io/badge/-ansunghae-263235?style=flat&logo=Github&logoColor=color"/></a>
+아이디어를 실제 서비스로 만들고,
+직접 배포하고 운영하며 성장하고 있습니다.
 
+**Web · Backend · AI · Infrastructure**
 
-# 👩‍💻 Technical Skills
-<div align="left">
-	<img src="https://img.shields.io/badge/JavaScript-263235?style=flat&logo=JavaScript&logoColor=color" />
-	<img src="https://img.shields.io/badge/Node.js-263235?style=flat&logo=Node.Js&logoColor=color" />
-	<img src="https://img.shields.io/badge/BootStrap-263235?style=flat&logo=BootStrap&logoColor=color" />
-	<img src="https://img.shields.io/badge/CSS3-263235?style=flat&logo=CSS3&" />
-	<img src="https://img.shields.io/badge/HTML5-263235?style=flat&logo=HTML5&logoColor=color" /> <br>
-	<img src="https://img.shields.io/badge/Python-263235?style=flat&logo=python&logoColor=color" />
-	<img src="https://img.shields.io/badge/fastapi-263235?style=flat&logo=fastapi&logoColor=color"/>
-	<img src="https://img.shields.io/badge/Lua-263235?style=flat&logo=lua&logoColor=color" /> <br>
-	<img src="https://img.shields.io/badge/Git-263235?style=flat&logo=Git&logoColor=color" />
-	<img src="https://img.shields.io/badge/GitHub-263235?style=flat&logo=GitHub&logoColor=color" />
-	<img src="https://img.shields.io/badge/Visual Studio Code-263235?style=flat&logo=visual-studio-code&logoColor=color" />
-	<img src="https://img.shields.io/badge/Figma-263235?style=flat&logo=Figma&logoColor=color" />
-	<img src="https://img.shields.io/badge/php-263235?style=flat&logo=php&logoColor=color" />
-	<img src="https://img.shields.io/badge/Csharp-263235?style=flat&logo=Csharp&logoColor=color" />
-	<img src="https://img.shields.io/badge/C-263235?style=flat&logo=C&logoColor=color" />
-</div>
-
-
-# 🎈 Projects
-## 1. [GitCat](https://github.com/ansunghae/gitcat)
-``깃허브 정보를, 디스코드에서``  
-> 개발기간 : 2022.07 ~  2022.12   
-> 기술스택 :   
-> Node.js
 ---
-## 2. [MyCut](https://github.com/ansunghae/MyCut)
-``내 손에서 즐키는 네컷사진``
-> 개발기간 : 2024.11 ~   
-> 기술스택 :   
-> **FrontEnd** : React-Native
+
+## About
+
+* 🎓 컴퓨터소프트웨어과
+* 💻 Web & Backend Developer
+* 🤖 AI 기반 서비스 개발
+* ☁️ 서버 구축 및 서비스 운영
+* 🚀 새로운 아이디어를 직접 구현하고 빠르게 시도하는 것을 좋아합니다.
+
+> **생각에서 끝내지 않고, 직접 만들어봅니다.**
+
 ---
-# 💻 GitHub Analytics
-[![SunghaeAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansunghae&show_icons=true&theme=onedark)](https://github.com/ansunghae/github-readme-stats)
 
-# ⚙ Servers
-<div>
-	<img src="https://img.shields.io/badge/Raspberry Pi 4B 4GB-263235?style=flat&logo=Raspberrypi&logoColor=color" />
-</div>
+## Tech Stack
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square\&logo=discord\&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+
+---
+
+## Projects
+
+### 🐢 바다거북스프
+
+**AI가 진행자가 되어주는 Discord 추리 게임 Bot**
+
+Discord에서 바다거북스프를 즐길 수 있도록
+AI를 활용해 게임 진행을 자동화한 서비스입니다.
+
+* AI 기반 게임 진행
+* Discord Bot
+* 랭크 및 시즌 시스템
+* API 사용량 관리
+* Docker 기반 배포 및 운영
+
+`Python` `discord.py` `AI` `Docker`
+
+**Currently serving**
+
+---
+
+### 🚗 무인 주차 차량관리 시스템
+
+**Edge Device 기반 무인 주차 관리 시스템**
+
+차량 입·출차 데이터를 기반으로
+주차 관리 및 요금 계산을 수행하는 시스템입니다.
+
+하드웨어와 Backend를 함께 구성하여 개발했습니다.
+
+`Python` `API` `Edge Device` `SQLite`
+
+**Awarded Project**
+
+---
+
+## UIL
+
+### 유일스튜디오 · UIL
+
+**Build ideas. Make them real.**
+
+아이디어를 직접 서비스로 만들어가는
+프로젝트 팀입니다.
+
+**Web · Backend · AI · Bot · Infrastructure**
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansunghae&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansunghae&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="165"/>
+</p>
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-me%40sunghae.xyz-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:me@sunghae.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-ansunghae-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ansunghae)
+
+<br>
+
+<p align="center">
+  <sub>© 2026 Ansunghae · UIL</sub>
+</p>
